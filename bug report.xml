@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <bug_id>1</bug_id>
+  <title>The “TIPP!” text is extended beyond the hint button in the game scenes</title>
+  <description>
+    <Preconditions>Open_the_Build_67</Preconditions>
+    <Steps>
+      <1>Launch the DeepTown game in German</1>
+      <2>Start a new game</2>
+      <3>Skip the video</3>
+      <4>Pay attention to the hint button</4>
+    </Steps>
+    <Actual_result>The “TIPP!” text is extended beyond the hint button in the game scene </Actual_result>
+    <Priority>low</Priority>
+    <Severity>minor</Severity>
+    <Reproducibility>always</Reproducibility>
+    <Attachmants>video_link</Attachmants>
+    <Expected_result>The “TIPP!” text is displayed in the hint button in the game scenes</Expected_result>
+  </description>
+</root>
