@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Course_topics>
+    <topic>1</topic>
+    <title>terminal_linux</title>
+  </Course_topics>
+  <Course_topics>
+    <topic>2</topic>
+    <title>sql</title>
+  </Course_topics>
+  <Course_topics>
+    <topic>3</topic>
+    <title>git</title>
+  </Course_topics>
+  <Course_topics>
+    <topic>4</topic>
+    <title>postman</title>
+  </Course_topics>
+  <Course_topics>
+    <topic>5</topic>
+    <title>client_server_architecture</title>
+  </Course_topics>
+  <Course_topics>
+    <topic>6</topic>
+    <title>mobile_testing</title>
+  </Course_topics>
+</root>
